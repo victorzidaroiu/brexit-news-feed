@@ -1,0 +1,33 @@
+{
+    "status": 200, 
+    "data": {
+        "status": "ok",
+        "articles": [
+            {
+                "title": "UK and EU agree draft text on post-Brexit relationship",
+                "content": "I have just sent to EU27 a draft Political Declaration on the Future Relationship between EU and UK. The Commission President has informed me that it has been agreed at negotiators' level and agreed in principle at political level, subject to the endorsement … [+63 chars]",
+                "publishedAt": "2018-11-22T11:27:24Z"
+            },
+            {
+                "title": "This brutally honest reporter perfectly sums up how Brexit is going",
+                "content": "Ask anyone living in the UK what's up with Brexit, and you'll likely get an answer sounding something like this: we have no idea. Because, in a nutshell, the practicalities of Brexit are confusing as hell. SEE ALSO: How to save your relationship from a Brexit… [+1163 chars]",
+                "publishedAt": "2018-11-13T12:13:44Z"
+            },
+            {
+                "title": "Brexit Special: Your Friday Briefing",
+                "content": "In the video, however, the whip with body language that can best be described as plaintive is making his case to a recalcitrant Conservative lawmaker. Their exchange is along these lines: Whip: Are you feeling any better about the deal on Tuesday? Have we got… [+1022 chars]",
+                "publishedAt": "2018-12-07T04:48:23Z"
+            },
+            {
+                "title": "What's next for Brexit",
+                "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+                "publishedAt": "2018-11-14T20:35:55Z"
+            },
+            {
+                "title": "Another Day in Brexit Hell",
+                "content": "Politicians, the ones absolutely no one has any faith in, are snuffling in the wreckage now, hoping to succeed Mrs. May. Its a horrible thing to watch calamity treated as opportunity but they thrive on it: The Labour Party, despite what its leaders might tell… [+2610 chars]",
+                "publishedAt": "2018-12-10T18:33:57Z"
+            }
+        ] 
+    }
+}

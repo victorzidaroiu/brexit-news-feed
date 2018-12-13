@@ -1,0 +1,29 @@
+{
+  "name": "brexit-news-feed",
+  "version": "1.0.0",
+  "description": "A simple brexit news service",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wt-bundle --output ./dist/index.js ./src && wt create ./dist --secret $(<.env);",
+    "test": "jest ./src"
+  },
+  "keywords": [
+    "brexit",
+    "news",
+    "api"
+  ],
+  "author": "Victor Zidaroiu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0",
+    "jest": "^23.6.0"
+  }
+}
